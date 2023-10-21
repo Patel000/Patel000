@@ -12,10 +12,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Manish Patel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## Hacktober
-
-[![@sushanshakya's Holopin board](https://holopin.me/sushanshakya)](https://holopin.io/@sushanshakya)
+<!-- 
 
 ## 📊 Visible Work
 
@@ -33,3 +30,4 @@
 
 ## Visitor's Count:
 ![Visitor's Count](https://profile-counter.glitch.me/%7BSushanShakya%7D/count.svg)
+ -->
